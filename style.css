@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	margin:auto;
+	width:800px;
+}
+
+a.PIN_1383200237587_pin_it_button {
+	background-image:url(bowdacio.us/images/pinpin.png)!important;
+}
+
+.header {
+	background-image:url(images/logo.png);
+	width:600px;
+	height:165px;
+	margin:auto;
+}
+
+.body, .footer {
+	width:660px;
+	margin:auto;
+}
+
+.fl {
+	width:200px;
+	float:left;
+	padding:0px 10px;
+}
+
+.fl:hover {
+	opacity:.7;
+} 
+
+.fr {
+	width:200px;
+	float:right;
+	padding:10px;
+}
+
+.footer {
+	padding:40px 0px 2px 0px;
+}
+
+.footer p {
+	text-align:center;
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#999;
+}
